@@ -1,12 +1,12 @@
-# 👋 Hi there! I'm Angelo
-
-🤖 Olá! Eu sou o **Angelo**, estudante de Inteligência Artificial no **Biopark Educação - Toledo/PR**. Sou um desenvolvedor entusiasta de projetos com **Python**, **Visão Computacional**, e também tenho interesse especial por **pesquisa científica** e **computação forense**.
+# Olá! Eu sou o **Angelo**
+Estudante de Inteligência Artificial no **Biopark Educação - Toledo/PR**. Sou um desenvolvedor entusiasta de projetos com **Python**, **Visão Computacional**, e também tenho interesse especial por **pesquisa científica** e **computação forense**.
 
 ---
 
 ## 🧠 O que estudo / trabalho
 
 🎓 Atualmente estou cursando **Bacharelado em Inteligência Artificial** e **Ciência de Dados**.
+[**Curriculo**](https://github.com/AngeloDev-New/curriculo/blob/master/curriculo.pdf)
 
 ---
 
