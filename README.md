@@ -47,7 +47,7 @@ Estou **aberto a colaborações** em qualquer área — _o que vier é lucro_! �
 
 - 📧 angelo.santos.empresarial@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/angelo-gabriel-8aaaa1321/)  
-- 💻 [GitHub](https://github.com/angelogabriel)
+- 💻 [GitHub](https://github.com/AngeloDev-New/)
 
 ---
 
@@ -61,7 +61,7 @@ Estou **aberto a colaborações** em qualquer área — _o que vier é lucro_! �
 
 ## 🧰 GitHub Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloDev-New/&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloDev-New&layout=compact&theme=dracula)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngeloDev-New&show_icons=true&theme=dracula)
 
 ![Snake animation](https://github.com/AngeloDev-New/AngeloDev-New/blob/output/github-contribution-grid-snake.svg)
