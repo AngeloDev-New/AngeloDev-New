@@ -19,7 +19,7 @@ You can view my résumé here:
 
 You can reach me through:
 
-<a href="mailto:angelo.santos.empresarial@gmail.com" title="Email">
+<a href="mailto:angelo.dev.santos@gmail.com" title="Email">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
 </a>
 <a href="https://wa.me/5545999008658" title="WhatsApp">
