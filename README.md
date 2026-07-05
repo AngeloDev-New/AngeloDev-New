@@ -2,7 +2,6 @@
 
 # Hello, I’m **Angelo**
 
-Artificial Intelligence student at **Biopark Educação – Toledo/PR**.
 I am a developer passionate about **Python**, **Computer Vision**, **scientific research**, and **digital forensics**.
 
 ---
